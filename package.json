@@ -2,7 +2,7 @@
   "name": "comp229-f2021-lesson3",
   "version": "0.0.1",
   "description": "Demo Project for COMP229 Lesson 3",
-  "author": "Tom Tsiliopoulos",
+  "author": "Ubaid Delawala",
   "main": "server.js",
   "license": "MIT",
   "scripts": {
